@@ -1,0 +1,13 @@
+.container {
+  display:flex;
+  flex-flow: wrap;
+
+}
+
+.theBasics {
+  width: 50%;
+}
+
+.theStory {
+  width: 50%;
+}
